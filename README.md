@@ -1,8 +1,7 @@
 <div align="center">
  
+[![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Kim%20Young%20Woo&fontSize=80&animation=twinkling&descAlignY=30)](https://github.com/kyw0112)
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Youngwoo's%20GitHub&fontSize=60)
-<br/><br/><br/>SNS list
 
 
 <br/><br/>
@@ -11,8 +10,8 @@ Email
 Pria1479@gmail.com
 
    반갑습니다 👋
-김영우입니다. 싸피 9기로 개발자가 되기 위하여 공부하고 있습니다. <br/>
-세상을 보다 아름답게 만드는 개발자가 되고 싶습니다. <br/><br/>
+김영우입니다. <br/> 개발자가 되기 위하여 공부하고 있습니다. <br/>
+세상을 보다 아름답게 만드는 개발자가 되겠습니다. <br/><br/>
 
 
 Tech Stack <br/>
