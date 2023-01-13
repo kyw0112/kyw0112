@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyw0112&hide=contribs,prs)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=po_co)](https://solved.ac/po_co/)
+
+
 <!--
 **kyw0112/kyw0112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
